@@ -1,6 +1,6 @@
 @extends('layout.master-front')
 @section('title')
-    MyHosting - Hosting termurah seindonesia
+    Torang Hosting
 @endsection
 @section('style')
    <style>
